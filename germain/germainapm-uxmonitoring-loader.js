@@ -1,7 +1,7 @@
 // germain APM - UX Monitoring Loader
 
 germainApmInit(
-    /* germain services root URL:             */ "https://pacupwk.cloud.germainapm.com", // e.g. "http://localhost:8080"
+    /* germain services root URL:             */ "https://paczfbs.cloud.germainapm.com", // e.g. "http://localhost:8080"
     /* Monitoring profile name:               */ "wahidscripttest", // e.g. "Siebel IP17"
     /* Web application name:                  */ "wahidscripttest", // e.g. "Callcenter"
     /* Hard-coded server hostname (optional): */ ""  // e.g. "cc3.domain.com"
